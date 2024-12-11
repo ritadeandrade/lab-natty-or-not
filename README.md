@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Iniciando no mercado de opções;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A ideia do projeto foi criar um conteudo bãsico sobre mercado de opções produzido pela ia e criar um personagem animado para reproduzir esse conteúdo em um video curto. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o chatgpt para criação de texto, leonardo ia para criação de personagem, e o d id para criação de avatar e sintetização de voz.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro foi gerado o conteudo no chatgpt, em seguida foi gerado no leonardo ia um personagem ficticio, e na sequencia foi gerado um avatar com voz sintetizada no d id para reproduççao do conteudo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://studio.d-id.com/share?id=8656343c44827a72c386103158eb4c4f&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi desafiador e estimulante conhecer tantas novas ferramentas com diversas possibilidades de criacao e aplicação, é sempre bom desenvolver novas habilidades e adquirir conhecimentos novos.
